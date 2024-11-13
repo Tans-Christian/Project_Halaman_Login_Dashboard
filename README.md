@@ -1,3 +1,8 @@
+UJIAN TENGAH SEMESTER | UNIVERSITAS TEKNOLOGI BANDUNG
+NPM: 2255*****29
+NAMA: CHRISTIAN OC*** KU**** PI****
+KELAS: TIF 2** CNS
+
 # flutter_application_3
 
 A new Flutter project.
